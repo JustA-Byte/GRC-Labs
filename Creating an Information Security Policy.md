@@ -71,3 +71,6 @@ This policy shall be reviewed and updated in accordance with management defined 
 ### Definitions
 1. Systems, applications and data are the software, hardware, information, third-party and cloud assets that the organisation uses to perform business.
 2. Mobile devices - Devices that are inherently not required to be stationed in a single place of work e.g. laptops, phones, tablets.
+
+
+_last revision date: 20/06/23_
