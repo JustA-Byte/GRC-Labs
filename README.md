@@ -24,3 +24,4 @@ Throughout these Risk Labs, I have performed a number of exercises which span ac
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Threat%20Modeling%20Using%20the%20PASTA%20Framework.md"> Threat Modeling Using the PASTA Framework </a>
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Security%20Program%20Audit%20of%20a%20Toy%20Company.md"> Security Program Audit of a Toy Company </a>
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Risk%20Assessment%20of%20Discovered%20Vulnerabilities.md"> Risk Assessment of Discovered Vulnerabilities </a>
+- <a href=""> Scoring Risk for Bank Assets </a>
