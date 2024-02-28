@@ -2,7 +2,7 @@
 
 ## Objective
 
-Throughout these Risk Labs, I have performed a number of exercises which span across a few fictitious companies. The idea behind this was to gain multiple skills and understand proceedures necessary when addressing risks in a company.
+Throughout these Risk Labs, I have performed a number of exercises which span across a few fictitious companies. The idea behind this was to gain multiple skills and understand proceedures necessary when addressing risk in a company.
 
 ### Skills Learned
 
