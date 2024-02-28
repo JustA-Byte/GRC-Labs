@@ -2,6 +2,7 @@
 ### Purpose
 The purpose of this audit is provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization. The audit needs to align current business practices with industry standards and best practices.
 
+
 ### Scope
 Botium Toys internal IT audit will assess the following:
 - Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
@@ -9,6 +10,7 @@ Botium Toys internal IT audit will assess the following:
 - Current procedures and protocols set for the following systems: accounting, end point detection, firewall, intrusion detection system, Security Information and Event Management (SIEM) tool.
 - Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
+
 
 ### Goals
 The goals for Botium Toys’ internal IT audit are:
@@ -18,6 +20,7 @@ The goals for Botium Toys’ internal IT audit are:
 - Implement the concept of least permissions when it comes to user credential management
 - Establish their policies and procedures, which includes their playbooks
 - Ensure they are meeting compliance requirements
+
 
 ## Controls Assessment
 ### Current Assets
@@ -35,6 +38,7 @@ Assets managed by the IT Department include:
 
 
 ### Controls
+
 <div align="center"><b>Administrative Controls</b></div>
 <br>
 
@@ -74,6 +78,7 @@ Assets managed by the IT Department include:
 | Locks                                    | Preventative; physical and digital assets are more secure                                                                          | X                           | Medium   |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the physical location to prevent damage to inventory, servers, etc.                       | X                           | Low      |
 
+
 ## Stakeholder Memorandum
 
 TO: IT Manager, Stakeholders<br>
@@ -110,6 +115,7 @@ The following controls are of high priority and must be implemented immediately:
 - Encryption
 - Locking cabinets for network gear on site
 
+
 #### Findings (should be addressed, but no immediate need): 
 The following controls are of medium priority and should be implemented soon:
 - Disaster recovery plans
@@ -121,12 +127,14 @@ The following controls are of medium priority and should be implemented soon:
 - Manual monitoring, maintenance, and intervention
 - Locks
 
+
 #### The following controls are of low priority and should be implemented when the business has capacity to do so:
 - Separation of duties
 - Backups
 - Adequate lighting
 - Closed circuit television surveillance
 - Fire detection and prevention systems
+
 
 #### Summary/Recommendations: 
 The current state of security controls at the organisation is currently leaving the business open to risk of regulatory non-compliance, fines and reputational damage. Insufficient processes and controls could lead to a breach in security, loss of customer PII, SPII and intellectual property.
