@@ -1,4 +1,4 @@
-# Risk-Labs
+# GRC-Labs
 
 ## Objective
 
