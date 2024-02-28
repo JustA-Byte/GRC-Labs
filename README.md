@@ -25,3 +25,4 @@ Throughout these Risk Labs, I have performed a number of exercises which span ac
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Security%20Program%20Audit%20of%20a%20Toy%20Company.md"> Security Program Audit of a Toy Company </a>
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Risk%20Assessment%20of%20Discovered%20Vulnerabilities.md"> Risk Assessment of Discovered Vulnerabilities </a>
 - <a href="https://github.com/JustA-Byte/Risk-Lab/blob/main/Scoring%20Risk%20for%20Bank%20Assets.md"> Scoring Risk for Bank Assets </a>
+- <a href="https://github.com/JustA-Byte/GRC-Labs/blob/main/Creating%20an%20Information%20Security%20Policy.md"> Creating an Information Security Policy </a>
